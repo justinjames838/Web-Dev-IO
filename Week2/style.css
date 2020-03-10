@@ -1,0 +1,49 @@
+body{
+    background-image: url('bg.jpg')
+}
+.navbar{
+    background-color:black;
+    height : 10vh;
+    display : flex;
+    justify-content: flex-start;
+    align-items: center;
+
+
+}
+
+.box2{
+    background-color:black;
+    height : 35%;
+    width : 7%;
+    display :flex;
+    justify-content: center;
+    text-align: left;
+    
+    color : white;
+    margin-inline: 2%;
+    
+    
+}
+
+a{
+    color:white;
+    text-decoration: none;
+    position: relative;
+    left:0%;
+}
+
+.box2:hover{
+    background-color: darkgreen;
+    box-shadow: 0px 7px 10px rgba(35, 46, 94, 0.603);
+}
+
+.display{
+    position: absolute;
+    top:30%;
+    display: flex;
+    justify-content: flex-start;
+    margin : 2%;
+    height : 25vh;
+    background-color: black;
+
+}
