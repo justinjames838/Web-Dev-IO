@@ -47,3 +47,30 @@ a{
     background-color: black;
 
 }
+
+@media(max-width: 500px){
+    .display{
+        position: absolute;
+        left:30%;
+        display: flex;
+        justify-content: flex-start;
+        margin : 2%;
+        height : 25vh;
+        background-color: black;
+        flex-direction: column;
+
+    } 
+
+    .navbar{
+        background-color:black;
+        height : 10vh;
+        display : flex;
+        justify-content: flex-start;
+        align-items: center;
+        flex-direction: column;
+        display: inline;
+    
+    
+    }
+
+}
