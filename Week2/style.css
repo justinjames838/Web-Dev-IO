@@ -51,7 +51,7 @@ a{
 @media(max-width: 500px){
     .display{
         position: absolute;
-        left:30%;
+        left:25%;
         display: flex;
         justify-content: flex-start;
         margin : 2%;
