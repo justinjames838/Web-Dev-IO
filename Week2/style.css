@@ -48,7 +48,7 @@ a{
 
 }
 
-/*@media(max-width: 500px){
+@media(max-width: 500px){
     .display{
         position: absolute;
         left:30%;
@@ -76,4 +76,4 @@ a{
     }
 
 }
-*/
+
