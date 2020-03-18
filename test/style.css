@@ -13,7 +13,7 @@ p{
   
 
 }
-.hamburger{
+#hamburger{
 
   display:none;
     overflow: hidden;
@@ -126,7 +126,7 @@ width : 100%;
     
     }
 
-    .hamburger{
+    #hamburger{
 
         display:block;
           overflow: hidden;
