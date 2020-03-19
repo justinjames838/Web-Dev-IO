@@ -23,6 +23,10 @@ p{
 
 .carousel-holder{
     width:270px;
+    position:relative;
+    left:0%;
+    display:flex;
+    justify-content:left;
 }
 
 }
